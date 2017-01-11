@@ -13,7 +13,7 @@ at the end of the file
 
 ```bash
 ~/.zshrc
-```.
+```
 
 Other remarks: 
 1)
