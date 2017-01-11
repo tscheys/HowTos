@@ -1,6 +1,7 @@
 The following line:
-
+```bash
 export PATH=your/new/bin:$PATH
+```
 
 will result in your/new/bin to be added to your PATH variabel, however if you exit and reopen terminal, your PATH will be reset. 
 
